@@ -34,3 +34,10 @@ iii.Load: Save analysis report
     
    - show df, save as files
 
+
+## Group 6 members
+ SARAH MERIN JOHN - 20BDA06
+ MANU TOM - 20BDA23
+ KEERTHANA SAJEEVAN - 20BDA39
+ TONMOY DUTTA - 20BDA57
+ ANANYA KUMARI - 20BDA68
