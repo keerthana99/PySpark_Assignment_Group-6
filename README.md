@@ -11,10 +11,12 @@ The dataset used for the assignment is [Movie-Dataset-Latest.csv](https://github
 ## The assignment contains following operations.
 
 i.Extract:  Load the data
+   
    - Read data as csv via spark dataframe
-​
+
 ii.Transform: Exploratory data analysis using spark df
-    - Unique id count
+    
+   - Unique id count
    
    - split column release_date into three columns -> year,month and day
    
@@ -27,7 +29,8 @@ ii.Transform: Exploratory data analysis using spark df
    - show df
    
    - GroupBy vote_average and count
-​
+
 iii.Load: Save analysis report
-    - show df, save as files
-​  
+    
+   - show df, save as files
+
