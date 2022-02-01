@@ -15,12 +15,18 @@ i.Extract:  Load the data
 ​
 ii.Transform: Exploratory data analysis using spark df
     - Unique id count
-    - split column release_date into three columns -> year,month and day
-    - Replace - month -> 1 to Jan and 2 to Feb and so on
-    - Update : Normalize popularity column - normalized  v = v - min(popularity)/max(popularity)-min(popularity)
-    - remove - overview and video column
-    - show df
-    - GroupBy vote_average and count
+   
+   - split column release_date into three columns -> year,month and day
+   
+   - Replace - month -> 1 to Jan and 2 to Feb and so on
+   
+   - Update : Normalize popularity column - normalized  v = v - min(popularity)/max(popularity)-min(popularity)
+   
+   - remove - overview and video column
+   
+   - show df
+   
+   - GroupBy vote_average and count
 ​
 iii.Load: Save analysis report
     - show df, save as files
